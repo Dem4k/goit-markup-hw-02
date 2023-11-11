@@ -129,6 +129,43 @@ body {
     color: #2e2f42;
 }
 
+/* Section 4 */
+
+.portfolio-section {
+    background: #FFF;
+}
+
+.portfolio-h {
+    color: #2E2F42;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+
+.portfolio-li-h {
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.portfolio-li-p {
+    color:#434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/* Section 5 */
+
 .footer {
     background-color: #2e2f42;
 }
