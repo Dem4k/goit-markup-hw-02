@@ -50,6 +50,12 @@ body {
    color: #404bbf;
 }
 
+/* Section 1 */
+
+.main-section {
+    background-color: #2e2f42;
+}
+
 .effective-solution {
     background-color: #2e2f42;
     font-size: 56px;
@@ -69,11 +75,17 @@ body {
     color: #ffffff;
 }
 
-.button:hover,
+.button:hover {
+    color:#404BBF;
+    cursor: pointer;
+}
+
 .button:focus {
     color:#404BBF;
     cursor: pointer;
 }
+
+/* Section 2 */
 
 .main-li {
     font-weight: 500;
@@ -89,6 +101,8 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+/* Section 3 */
 
 .team-section {
     background-color: #F4F4FD;
