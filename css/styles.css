@@ -29,9 +29,12 @@ body {
     letter-spacing: 0.02em;
 }
 
-.head-li:hover, 
-.head-li:focus {
-    color:#404bbf;
+.head-a-a:hover {
+    color: #404bbf;
+}
+
+.head-a-a:focus {
+    color: #404bbf;
 }
 
 .address {
@@ -76,12 +79,12 @@ body {
 }
 
 .button:hover {
-    color:#404BBF;
+    background-color:#404BBF;
     cursor: pointer;
 }
 
 .button:focus {
-    color:#404BBF;
+    background-color:#404BBF;
     cursor: pointer;
 }
 
