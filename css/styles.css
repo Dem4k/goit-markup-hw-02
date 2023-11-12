@@ -29,12 +29,10 @@ body {
     letter-spacing: 0.02em;
 }
 
-.head-a-a:hover {
-    color: #404bbf;
-}
-
+.head-a-a:hover,
 .head-a-a:focus {
     color: #404bbf;
+    cursor: pointer;
 }
 
 .address {
